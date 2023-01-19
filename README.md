@@ -1,5 +1,5 @@
 # EfficientAdding
-> This Java program adds a sequence of numbers efficiently. The main class is the EfficientAdding class; this class accepts user input. 
+> This Java program adds a sequence of numbers efficiently. The main class is the EfficientAdding class; this class accepts user input. This class contains one method and utilizes the PriorityQueue data structure. 
 
 ## Table of Contents
 * [General Info](#general-information)
